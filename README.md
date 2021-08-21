@@ -1,6 +1,9 @@
 
 ### Hi there 👋
-
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=brblacky3&color=grey">
+</p>
+  
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
