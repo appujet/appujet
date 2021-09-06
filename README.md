@@ -15,9 +15,9 @@
 <div style="display-flex">
 <a href="https://twitter.com/br_blacky"> <img align="left" width="43px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
 <a href="https://youtube.com/c/brblacky"> <img align="left" width="43px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
-<a href="https://t.me/sdip521"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/telegram.png" title="Telegram"/></a>
-<a href="https://blacky-dev.cf/"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
-<a href="mailto: sdipedit@gmail.com"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/email.png" title="Email"/> </a><br>
+<a href="https://t.me/sdip521"> <img align="left" width="43px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-telegram-app-500.png" title="Telegram"/></a>
+<a href="https://blacky-dev.cf/"> <img align="left" width="43px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-website-100.png" title="Telegram"/></a>
+<a href="mailto: sdipedit@gmail.com"> <img align="left" width="43px" src="https://github.com/brblacky/BrBlacky/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </div>&nbsp;
 &nbsp;
 &nbsp;
