@@ -1,32 +1,25 @@
 
 ### Hi there 👋
-<p align="center">  
-<img src="https://komarev.com/ghpvc/?username=brblacky3&color=grey">
-</p>
-  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
-![profile] ![languages]
+![Blacky's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brblacky&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[profile]: https://github-readme-stats.vercel.app/api?username=brblacky&show_icons=true&theme=midnight-purple
-
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=brblacky&theme=midnight-purple
+<p align="left"> </p>
 
 
+- 🔭 I’m currently working on various projects
+- 🌱 I’m currently learning Web Development
 
-<!--
-**brblacky/BrBlacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------
 
-Here are some ideas to get you started:
+### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<div style="display-flex">
+<a href="https://twitter.com/br_blacky"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/twitter.png" title="Telegram"/></a>
+<a href="https://youtube.com/c/brblacky"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/youtube.png" title="Telegram"/></a>
+<a href="https://t.me/sdip521"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/telegram.png" title="Telegram"/></a>
+<a href="https://blacky-dev.cf/"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/internet.png" title="Telegram"/></a>
+<a href="mailto: sdipedit@gmail.com"> <img align="left" width="43px" src="https://github.com/Oshekher/Oshekher/blob/main/email.png" title="Email"/> </a><br>
+</div>&nbsp;
+&nbsp;
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------  
