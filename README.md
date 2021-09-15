@@ -6,7 +6,7 @@
 <p align="left"> </p>
 
 
-- 🔭 I’m currently working on various projects
+- 🔭 I’m currently working on Advance Music Bot projects
 - 🌱 I’m currently learning Web Development
 
 ------------------------------------------
