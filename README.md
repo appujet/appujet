@@ -21,5 +21,5 @@
 </div>&nbsp;
 &nbsp;
 &nbsp;
-
+[Button ](http://example.com/){: .btn .btn-blue }
 ------------------------------------------  
