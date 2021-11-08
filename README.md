@@ -1,13 +1,13 @@
 
 ### Hi there 👋
-<div align = "center">
-<p align="centre"> </p>
 
 - 🔭 I’m currently working on Advance Music Bot projects
 - 🌱 I’m currently learning Web Development
-## 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<div style="display-flex">
 <div align = "center">
+<p align="center">
+    <a href="https://blacky-dev.cf/">
+        <img src="./Banner.png" />
+    </a>
 <p align="centre"> 
 <a href="https://twitter.com/br_blacky"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-twitter-100.png" title="Telegram"/></a>
 <a href="https://youtube.com/c/brblacky"> <img width="30px" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/icons8-youtube-music-500.png" title="Telegram"/></a>
