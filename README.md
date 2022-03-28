@@ -40,7 +40,7 @@
 ![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)](https://dev.discordprofiles.me/openspotify/594853883742912512?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)](https://dev.discordprofiles.me/openspotify/491577179495333903?style=flat-square)
 </div>
 
 
