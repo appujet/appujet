@@ -39,11 +39,11 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=brblacky&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/491577179495333903?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/491577179495333903?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/491577179495333903?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/491577179495333903?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/491577179495333903?style=flat-square)](https://dev.discordprofiles.me/openspotify/491577179495333903?style=flat-square)
+![status](https://dev.discordprofiles.me/badge/status/959276033683628122?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/959276033683628122?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/959276033683628122?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/959276033683628122?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/959276033683628122style=flat-square)](https://dev.discordprofiles.me/openspotify/959276033683628122?style=flat-square)
 </div>
 
 
