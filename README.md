@@ -38,8 +38,6 @@
     </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/brblacky/brblacky/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 ![](https://komarev.com/ghpvc/?username=brblacky&style=flat-square)
 ![status](https://dev.discordprofiles.me/badge/status/959276033683628122?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/959276033683628122?style=flat-square)
@@ -49,3 +47,5 @@
 </div>
 
 ------------------------------------------  
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/brblacky/brblacky/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/brblacky/brblacky/output/github-contribution-grid-snake.svg#gh-light-mode-only)
