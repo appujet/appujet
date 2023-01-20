@@ -1,3 +1,5 @@
+# Stolen from https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml
+
 name: generate animation
 
 on:
@@ -15,7 +17,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
--       name: generate github-contribution-grid-snake.svg
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
