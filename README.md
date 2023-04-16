@@ -22,6 +22,13 @@
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
+
+<a href="https://discord.com/users/959276033683628122">
+
+  <img src="https://lanyard-profile-readme.vercel.app/api/959276033683628122?borderRadius=5px&bg=0d1117"/>
+
+
+</a>
     <a href="https://github.com/brblacky/">
         <img src="https://github-readme-stats.vercel.app/api?username=brblacky&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
     </a>
