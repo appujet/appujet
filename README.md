@@ -2,59 +2,103 @@
 <div align = "center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%22Hello+there!+%F0%9F%91%8B%F0%9F%8F%BB%22;%22I'm+Blacky!%22;%22Welcome+to+my+profile!%22" alt="Hello it's blacky" />
-
-<a href="https://github.com/brblacky"><img src="https://github-widgetbox.vercel.app/api/profile?username=brblacky&amp;theme=darkmode&amp;data=followers,repositories,stars,commits" alt="brblacky Profile WidgetBox"></a>
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,linux,bash&amp;theme=darkmode" alt="brblacky Skills WidgetBox">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%93%88+Stats+for+nerds+%F0%9F%93%88" alt="Stats for nerds" />
-
-<a href="https://www.github.com/brblacky"><img src="https://komarev.com/ghpvc/?username=brblacky&style=for-the-badge&color=161c1c&label=👁+PROFILE+VIEWS" alt="brblacky github profile views" /></a>
-<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logoColor=00ff99&logo=linux&color=161c1c" /></a>
-<a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux&logoColor=00ff99&color=161c1c" /></a>
-<a href="https://dwm.suckless.org"><img src="https://img.shields.io/badge/WM-DWM-005577?style=for-the-badge&logo=dwm&color=161c1c&logoColor=00ff99" /></a>
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/IDE-Neovim-98c379?style=for-the-badge&logo=neovim&color=161c1c&logoColor=00ff99" /></a>
-
-<div style="display:flex;">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=brblacky&show_icons=true&theme=dark&bg_color=161c1c&hide_border=true&icon_color=00ff99&title_color=00ff99&border_radius=16" alt="brblacky GitHub Stats">
-<span style="display:inline-block;width:2%"></span>
-<img width="49%" src="https://streak-stats.demolab.com/?user=brblacky&theme=dark&background=161c1c&hide_border=true&border_radius=16&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" alt="brblacky GitHub Streak">
 </div>
-<br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=brblacky&amp;theme=xcode&amp;bg_color=161c1c&amp;point=00ff99&amp;line=caf0ff&amp;color=e4e6eb&amp;title_color=e4e6eb&amp;hide_border=true&amp;radius=16" alt="brblacky github activity graph">
+<div align="center">
+  <img height="250" src="https://i.imgur.com/z9bVBfC.jpeg"  />
+</div>
 
-<br>
-<br>
+###
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=435&repeat=false&lines=%F0%9F%A4%9D+Get+in+touch!+%F0%9F%A4%9D" alt="Get in touch" />
+<div align="center">
+  <a href="https://twitter.com/br_blacky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="130" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/959276033683628122" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="130" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/c/brblacky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="130" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://paypal.me/sdip521" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="130" height="30" alt="paypal logo"  />
+  </a>
+  <a href="https://www.instagram.com/brblacky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="130" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.patreon.com/brblacky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="130" height="30" alt="patreon logo"  />
+  </a>
+</div>
 
-<a href="mailto:sdipedit@gmail.com"><img width="75" src="https://media4.giphy.com/media/mHzd6Y8fz1pW1JcfXR/200w.webp?cid=ecf05e47hsrlbsl1zm0w72gijhzk11tg0djsf119lcejgz2w&ep=v1_stickers_search&rid=200w.webp&ct=s" alt="brblacky on Gmail"></a>
-<a href="https://www.youtube.com/c/brblacky"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/youtube.gif" alt="brblacky on Youtube"></a>
-<a href="https://twitter.com/br_blacky"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/twitter.gif" alt="brblacky on Twitter"></a>
-<a href=https://discord.com/users/959276033683628122><img width="75" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="brblacky on Discord"></a>
+###
 
-<br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/brblacky/count.svg?"  />
+</div>
 
+###
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&duration=4000&color=00ff99&center=true&width=235&repeat=false&lines=%E2%AD%90+Donate+%E2%AD%90" alt="Donate" />
-<br>
-<a href="https://paypal.me/sdip521"><img width="75" src="https://raw.githubusercontent.com/brblacky/BrBlacky/main/image/paypal.png" alt="Donate with Paypal"></a>
+<br clear="both">
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
 
-<details><summary><strong>🗲 Lightning 🗲</strong></summary>
-<br>
-<strong><a href="https://getalby.com/p/brblacky">sdipedit@gmail.com</a></strong> 
-<br>
-</details>
+###
 
-<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brblacky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brblacky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=brblacky&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="">
+###
 
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/brblacky/brblacky/output/snake.svg" alt="Snake animation" />
 
-</a>
+###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/3142bctxbjgwk67z24addrbcejna">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
