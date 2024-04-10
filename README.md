@@ -20,8 +20,7 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/user/959276033683628122)
 
 
-
-### Languages and Tools
+### Languages:
 
 <table width="100% height="100%" align="center">
  <tr>
@@ -49,10 +48,43 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
   <td>
     <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
   </td>
-
   </tr>
 </table>
 
+## Tools:
+
+
+<table width="100%" height="100%" align="center">
+  <tr>
+    <td>
+      <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Cloudflare-Workers" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="50" height="50" />
+    </td>
+    <td>
+      <img alt="Vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50" />
+    </td>
+  </tr>
+</table>
 ## My Github Stats:
 <table align="center" width="100%" height="100%" >
 
