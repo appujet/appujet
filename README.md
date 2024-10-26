@@ -85,6 +85,7 @@ I'm Appu , a passionate self-taught developer from India. My passion for softwar
     </td>
   </tr>
 </table>
+
 ## My Github Stats:
 <table align="center" width="100%" height="100%" >
 
